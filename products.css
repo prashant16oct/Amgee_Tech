@@ -1,0 +1,144 @@
+/* Button Css */
+.button_custom {
+    margin:auto;
+  display:block;
+}
+
+.image_custom {
+    max-width:100%;
+    max-height: 40vh;
+    margin:auto;
+  display:block;
+}
+
+.image {
+    max-width: 100%;
+    max-height: 40vh;
+}
+
+.image_unstreched {
+    max-width: 50%;
+    max-height: 40vh;
+    margin:auto;
+    display:block;
+}
+
+.image1 {
+    width: 400px;
+    max-height: 40vh;
+}
+
+
+/* Written Data CSS */
+.products_heading {
+    padding: 2% 2% 0% ;
+    text-align: center;
+    font-size: 2.75rem;
+    color: black;
+}
+
+.product_sHeading {
+    padding: 0 10%;
+    color: black;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.product_data {
+    font-size: 1.1rem;
+    color: rgb(22, 21, 21);
+    text-align: justify;
+    padding: 0 10%;
+}
+
+.product_bg_image {
+    padding: 2%;
+}
+
+.float {
+    float: left;
+}
+
+.SoilM{
+    width:100%; 
+    height: 50vh;
+}
+
+
+
+.ambient_img {
+    margin-left: 5%;
+    height: 40vh;
+    float:left;
+}
+
+
+
+.datalogger {
+    height: 50vh; 
+    margin-left: 25%;
+}
+
+.pv_img {
+    margin-left: 18%;
+}
+
+
+
+.pyran_img {
+    margin-left: 5%;
+    height: 35vh;
+    
+}
+
+
+
+.pyrano_heading {
+    margin-top: -5%;
+
+    margin-left: 55%;
+}
+
+@media (min-width:321px) and (max-width: 770px)
+{
+ .Bimg
+ {
+  height:45vh;
+  width:100%;
+ }
+
+ .pyrano_heading {
+    margin-top: 45%;
+    
+    margin-left: 0;
+}
+
+
+
+.SoilM {
+    height: 20vh;
+}
+
+.ambient_img {
+    margin-left: 30%;
+    height: 40vh;
+    float:left;
+}
+
+.pv_img {
+    margin-left: 0;
+}
+
+.pyran_img {
+    margin-bottom: -70%;;
+    margin-left: 0;
+    height: 40vh;
+    float:none;
+}
+
+.downward_pyran {
+    margin-top: 50%;
+}
+
+
+}
